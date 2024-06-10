@@ -1,8 +1,8 @@
 # Ultimate GitHub README Template & User Guide
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Version](https://img.shields.io/badge/version-1.0.0-green.svg)](https://github.com/yourusername/ultimate-readme-template)
-[![GitHub Stars](https://img.shields.io/github/stars/yourusername/ultimate-readme-template)](https://github.com/yourusername/ultimate-readme-template/stargazers)
+[![Version](https://img.shields.io/badge/version-1.0.0-green.svg)](https://github.com/louminailabs/ultimate-readme-template)
+[![GitHub Stars](https://img.shields.io/github/stars/yourusername/ultimate-readme-template)](https://github.com/louminailabs/ultimate-readme-template/stargazers)
 
 The Ultimate GitHub README Template & User Guide is a comprehensive resource designed to help you create high-quality, informative, and engaging README files for your GitHub projects. This template and guide provide a structured framework and best practices to ensure that your README files effectively communicate your project's purpose, features, installation instructions, usage guidelines, and other essential information to users, contributors, and stakeholders.
 
@@ -59,8 +59,4 @@ The Ultimate GitHub README Template & User Guide was inspired by the need for a 
 
 ## Contact
 
-If you have any questions, suggestions, or feedback regarding the Ultimate GitHub README Template & User Guide, please feel free to contact us at [email@example.com](mailto:email@example.com) or open an issue in the repository.
-
----
-
-Remember to replace `yourusername` and `email@example.com` with your actual GitHub username and contact email, respectively. You can also customize the badge URLs and add more relevant badges as needed.
+If you have any questions, suggestions, or feedback regarding the Ultimate GitHub README Template & User Guide, please feel free to contact us at [opensource@louminai.com](mailto:opensource@louminai.com) or open an issue in the repository.
