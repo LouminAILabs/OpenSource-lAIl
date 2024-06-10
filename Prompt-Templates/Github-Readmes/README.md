@@ -1,8 +1,10 @@
 # Ultimate GitHub README Template & User Guide
 
+Prompt-Templates/Github-Readmes/README.md
+
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Version](https://img.shields.io/badge/version-1.0.0-green.svg)](https://github.com/louminailabs/ultimate-readme-template)
-[![GitHub Stars](https://img.shields.io/github/stars/yourusername/ultimate-readme-template)](https://github.com/louminailabs/ultimate-readme-template/stargazers)
+[![Version](https://img.shields.io/badge/version-1.0.0-green.svg)](https://github.com/LouminAILabs/OpenSource-lAIl/tree/main/Prompt-Templates/Github-Readmes)
+[![GitHub Stars](https://img.shields.io/github/stars/LouminAILabs/OpenSource-lAIl/tree/main/Prompt-Templates/Github-Readmes)](https://github.com/LouminAILabs/OpenSource-lAIl/tree/main/Prompt-Templates/Github-Readmes/stargazers)
 
 The Ultimate GitHub README Template & User Guide is a comprehensive resource designed to help you create high-quality, informative, and engaging README files for your GitHub projects. This template and guide provide a structured framework and best practices to ensure that your README files effectively communicate your project's purpose, features, installation instructions, usage guidelines, and other essential information to users, contributors, and stakeholders.
 
