@@ -1,8 +1,4 @@
----
-created: 2024-07-06T18:13
-updated: 2024-07-06T18:22
----
-Please leverage the instructions and template below to generate a `"meRead"` for the code:
+Prompt: Please leverage the instructions and template below to generate a `"meRead"` for the code:
 
 ---
 
